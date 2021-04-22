@@ -1,0 +1,37 @@
+{
+  "name": "gql-pathify",
+  "version": "1.0.0",
+  "description": "Parses GraphQL code to a flat list with paths to nodes being used.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  
+  "license": "MIT",
+  "author": {
+    "name": "Wade Bourne",
+    "url": "https://github.com/AllAwesome497/"
+  },
+  "prettier": {
+    "trailingComma": "all",
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "@types/graphql": "^14.5.0",
+    "@types/jest": "^26.0.22",
+    "@types/module-alias": "^2.0.0",
+    "@types/node": "^14.14.37",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "apollo-server-core": "^2.22.2",
+    "esbuild": "^0.11.8",
+    "eslint": "^7.24.0",
+    "graphql": "^15.5.0",
+    "graphql-tag": "^2.11.0",
+    "jest": "^26.6.3",
+    "module-alias": "^2.2.2",
+    "prettier": "^2.2.1",
+    "ts-jest": "^26.5.4",
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {}
+}
