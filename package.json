@@ -1,6 +1,6 @@
 {
   "name": "gql-pathify",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Parses GraphQL code to a flat list with paths to nodes being used.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
