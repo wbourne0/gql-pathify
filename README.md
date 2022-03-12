@@ -34,7 +34,7 @@ will get translated to:
 ```
 
 
-When a field is aliased thoguh, gql will resolve that multiple times, so its added multiple times.
+When a field is aliased though, gql will resolve that multiple times, so its added multiple times.
 
 EG:
 ```graphql
