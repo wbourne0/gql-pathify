@@ -1,10 +1,21 @@
 {
   "name": "gql-pathify",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "Parses GraphQL code to a flat list with paths to nodes being used.",
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
-  
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AllAwesome497/gql-pathify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AllAwesome497/gql-pathify/issues"
+  },
   "license": "MIT",
   "author": {
     "name": "Wade Bourne",

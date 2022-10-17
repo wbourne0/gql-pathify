@@ -1,0 +1,7 @@
+./tsconfig*
+./.vscode
+./jest.config.js
+./README.md
+./.eslintrc.yml
+./.eslintignore
+./tests
