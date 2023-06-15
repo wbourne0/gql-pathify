@@ -12,15 +12,15 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AllAwesome497/gql-pathify.git"
+    "url": "https://github.com/wbourne0/gql-pathify.git"
   },
   "bugs": {
-    "url": "https://github.com/AllAwesome497/gql-pathify/issues"
+    "url": "https://github.com/wbourne0/gql-pathify/issues"
   },
   "license": "MIT",
   "author": {
     "name": "Wade Bourne",
-    "url": "https://github.com/AllAwesome497/"
+    "url": "https://github.com/wbourne0/"
   },
   "prettier": {
     "trailingComma": "all",
